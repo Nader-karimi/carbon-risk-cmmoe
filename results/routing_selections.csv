@@ -1,0 +1,79 @@
+Year,Model,eta,gamma
+2021,CMD-MoE,2.0,0.05
+2021,Ordinary exponential weighting,0.02,0.0
+2021,Equal weight,,
+2021,Log-SV,,
+2021,HAR-RV,,
+2021,EWMA(0.94),,
+2021,EWMA(0.97),,
+2021,Multiscale ExtraTrees,,
+2021,No Log-SV expert,2.0,0.05
+2021,No Log-SV information,2.0,0.05
+2021,No EWMA experts,2.0,0.05
+2021,No nonlinear expert,2.0,0.05
+2021,No HAR-RV,2.0,0.05
+2022,CMD-MoE,1.0,0.02
+2022,Ordinary exponential weighting,2.0,0.0
+2022,Equal weight,,
+2022,Log-SV,,
+2022,HAR-RV,,
+2022,EWMA(0.94),,
+2022,EWMA(0.97),,
+2022,Multiscale ExtraTrees,,
+2022,No Log-SV expert,1.0,0.02
+2022,No Log-SV information,2.0,0.2
+2022,No EWMA experts,1.0,0.02
+2022,No nonlinear expert,2.0,0.1
+2022,No HAR-RV,1.0,0.02
+2023,CMD-MoE,2.0,0.1
+2023,Ordinary exponential weighting,2.0,0.0
+2023,Equal weight,,
+2023,Log-SV,,
+2023,HAR-RV,,
+2023,EWMA(0.94),,
+2023,EWMA(0.97),,
+2023,Multiscale ExtraTrees,,
+2023,No Log-SV expert,2.0,0.05
+2023,No Log-SV information,2.0,0.02
+2023,No EWMA experts,2.0,0.05
+2023,No nonlinear expert,2.0,0.1
+2023,No HAR-RV,2.0,0.1
+2024,CMD-MoE,1.0,0.02
+2024,Ordinary exponential weighting,0.1,0.0
+2024,Equal weight,,
+2024,Log-SV,,
+2024,HAR-RV,,
+2024,EWMA(0.94),,
+2024,EWMA(0.97),,
+2024,Multiscale ExtraTrees,,
+2024,No Log-SV expert,1.0,0.02
+2024,No Log-SV information,1.0,0.02
+2024,No EWMA experts,2.0,0.02
+2024,No nonlinear expert,2.0,0.1
+2024,No HAR-RV,2.0,0.1
+2025,CMD-MoE,2.0,0.1
+2025,Ordinary exponential weighting,0.02,0.0
+2025,Equal weight,,
+2025,Log-SV,,
+2025,HAR-RV,,
+2025,EWMA(0.94),,
+2025,EWMA(0.97),,
+2025,Multiscale ExtraTrees,,
+2025,No Log-SV expert,2.0,0.2
+2025,No Log-SV information,2.0,0.1
+2025,No EWMA experts,2.0,0.02
+2025,No nonlinear expert,2.0,0.2
+2025,No HAR-RV,1.0,0.1
+2026,CMD-MoE,1.0,0.02
+2026,Ordinary exponential weighting,2.0,0.0
+2026,Equal weight,,
+2026,Log-SV,,
+2026,HAR-RV,,
+2026,EWMA(0.94),,
+2026,EWMA(0.97),,
+2026,Multiscale ExtraTrees,,
+2026,No Log-SV expert,1.0,0.02
+2026,No Log-SV information,1.0,0.02
+2026,No EWMA experts,2.0,0.02
+2026,No nonlinear expert,1.0,0.02
+2026,No HAR-RV,1.0,0.02
